@@ -32,6 +32,6 @@ p1<-GOChord(as.matrix(df1),
 ggsave(filename = "p3.pdf",
        p1,
        width = 15,height = 15)
-
-
 ```
+
+<img src="https://github.com/NotebookOFXiaoMing/GOplot_example/blob/master/img.png">
